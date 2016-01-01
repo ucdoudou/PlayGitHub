@@ -3,6 +3,3 @@
 Link: https://github.com/ucdoudou/PlayGitHub
 Contributors: Wei Guo, Natalie Diao
 Task: Practice Github
-
-###
-natalie added 3rd change
